@@ -1,0 +1,1 @@
+{"title": "Гамлет", "author": "Александр Петрович Сумароков", "date": "1748", "parents": [{"name": "polonij", "children": ["ofelija"], "texts": []}, {"name": "gertruda", "children": ["gamlet"], "texts": []}]}
