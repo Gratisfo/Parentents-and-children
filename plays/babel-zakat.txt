@@ -1,0 +1,1 @@
+{"title": "Закат", "date": "1928", "author": "Исаак Эммануилович Бабель", "parents": [{"name": "potapovna", "childrens": ["marusya"], "text": []}, {"name": "nekhama", "childrens": ["benya", "lyovka", "dvoyra"], "text": []}, {"name": "mendel", "childrens": ["benya", "lyovka", "dvoyra"], "text": []}], "childrens": [{"name": "marusya", "parents": ["potapovna"], "text": []}]}

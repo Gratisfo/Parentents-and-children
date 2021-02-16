@@ -1,0 +1,1 @@
+{"title": "Антигона", "date": "1849", "author": "Василий Васильевич Капнист", "parents": [{"name": "kreont", "childrens": ["ehmon"], "text": []}], "childrens": [{"name": "ehmon", "parents": ["kreont"], "text": []}]}

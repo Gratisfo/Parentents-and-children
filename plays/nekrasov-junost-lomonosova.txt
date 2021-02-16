@@ -1,0 +1,1 @@
+{"title": "Юность Ломоносова", "date": "1902", "author": "Николай Алексеевич Некрасов", "parents": [{"name": "starik", "childrens": ["mihail_lomonosov"], "text": []}, {"name": "zhenschina", "childrens": ["mihail_lomonosov"], "text": []}], "childrens": [{"name": "mihail_lomonosov", "parents": ["starik", "zhenschina"], "text": []}]}

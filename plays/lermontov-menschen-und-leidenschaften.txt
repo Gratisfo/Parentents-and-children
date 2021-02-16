@@ -1,0 +1,1 @@
+{"title": "Menschen und Leidenschaften", "date": "1880", "author": "Михаил Юрьевич Лермонтов", "parents": [{"name": "vasilij_mihalyc", "childrens": ["lubov", "eliza"], "text": []}, {"name": "nikolaj_mihalyc", "childrens": ["yuri"], "text": []}], "childrens": [{"name": "eliza", "parents": ["vasilij_mihalyc"], "text": []}]}

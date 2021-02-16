@@ -1,0 +1,1 @@
+{"title": "Не так живи, как хочется", "date": "1855", "author": "Александр Николаевич Островский", "parents": [{"name": "ilya", "childrens": ["petr"], "text": []}, {"name": "spiridonovna", "childrens": ["grusha"], "text": []}], "childrens": [{"name": "grusha", "parents": ["spiridonovna"], "text": []}]}

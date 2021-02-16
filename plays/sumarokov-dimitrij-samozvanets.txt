@@ -1,0 +1,1 @@
+{"title": "Димитрий Самозванец", "date": "1771", "author": "Александр Петрович Сумароков", "parents": [{"name": "shujskij", "childrens": ["ksenija"], "text": []}], "childrens": [{"name": "ksenija", "parents": ["shujskij", "marija_godunova", "boris_godunov"], "text": []}]}

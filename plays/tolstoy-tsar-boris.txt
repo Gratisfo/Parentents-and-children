@@ -1,0 +1,1 @@
+{"title": "Царь Борис", "date": "1870", "author": "Алексей Константинович Толстой", "parents": [{"name": "boris_godunov", "childrens": ["ksenija", "fedor"], "text": []}, {"name": "marija_godunova", "childrens": ["ksenija", "fedor"], "text": []}], "childrens": [{"name": "ksenija", "parents": ["shujskij", "marija_godunova", "boris_godunov"], "text": []}]}
