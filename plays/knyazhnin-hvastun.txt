@@ -1,1 +1,0 @@
-{"title": "Хвастун", "date": "1786", "author": "Яков Борисович Княжнин", "parents": [{"name": "chvankina", "childrens": ["milena"], "text": []}, {"name": "cheston", "childrens": ["zamir"], "text": []}], "childrens": [{"name": "milena", "parents": ["chvankina", "krivosudov"], "text": []}]}

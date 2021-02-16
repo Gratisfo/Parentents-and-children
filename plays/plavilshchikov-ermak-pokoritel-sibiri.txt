@@ -1,1 +1,0 @@
-{"title": "Ермак, покоритель Сибири", "date": "1806", "author": "Пётр Алексеевич Плавильщиков", "parents": [{"name": "kuchum", "childrens": ["irta"], "text": []}], "childrens": [{"name": "irta", "parents": ["kuchum"], "text": []}]}

@@ -1,1 +1,0 @@
-{"title": "Дон-Жуан в Египте", "date": "1911", "author": "Николай Степанович Гумилёв", "parents": [{"name": "amerikanets", "childrens": ["amerikanka"], "text": []}], "childrens": [{"name": "amerikanka", "parents": ["amerikanets"], "text": []}]}

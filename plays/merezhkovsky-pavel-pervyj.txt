@@ -1,1 +1,0 @@
-{"title": "Павел первый", "date": "1908", "author": "Дмитрий Сергеевич Мережковский", "parents": [{"name": "pavel", "childrens": ["aleksandr", "konstantin"], "text": []}], "childrens": [{"name": "aleksandr", "parents": ["pavel"], "text": []}]}

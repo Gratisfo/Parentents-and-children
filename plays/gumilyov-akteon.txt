@@ -1,1 +1,0 @@
-{"title": "Актеон", "date": "1913", "author": "Николай Степанович Гумилёв", "parents": [{"name": "kadm", "childrens": ["akteon"], "text": []}], "childrens": [{"name": "akteon", "parents": ["kadm"], "text": []}]}

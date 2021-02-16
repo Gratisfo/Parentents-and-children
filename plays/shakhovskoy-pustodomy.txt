@@ -1,1 +1,0 @@
-{"title": "Пустодомы", "date": "1820", "author": "Александр Александрович Шаховской", "parents": [{"name": "grafinja", "childrens": ["petja", "rostov", "natasha", "graf"], "text": []}], "childrens": [{"name": "graf", "parents": ["grafinja"], "text": []}]}

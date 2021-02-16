@@ -1,1 +1,0 @@
-{"title": "Освобожденная Москва", "date": "1798", "author": "Михаил Матвеевич Херасков", "parents": [{"name": "knjaz_dimitrij", "childrens": ["leon"], "text": []}, {"name": "getman_zhelkovskij", "childrens": ["vjanko"], "text": []}], "childrens": [{"name": "leon", "parents": ["knjaz_dimitrij"], "text": []}]}

@@ -1,1 +1,0 @@
-{"title": "Иванов", "date": "1889", "author": "Антон Павлович Чехов", "parents": [{"name": "ZinaidaSavishna", "childrens": ["Sasha"], "text": []}, {"name": "Lebedev", "childrens": ["Sasha"], "text": []}], "childrens": [{"name": "Sasha", "parents": ["Lebedev", "ZinaidaSavishna"], "text": []}]}

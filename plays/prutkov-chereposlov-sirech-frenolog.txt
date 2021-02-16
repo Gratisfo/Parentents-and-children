@@ -1,1 +1,0 @@
-{"title": "Черепослов, сиречь Френолог", "date": "1860", "author": "Козьма Прутков", "parents": [{"name": "MinaHristianovna", "childrens": ["Liza"], "text": []}, {"name": "Shishkengolm", "childrens": ["Liza"], "text": []}], "childrens": [{"name": "Liza", "parents": ["Shishkengolm", "MinaHristianovna"], "text": []}]}

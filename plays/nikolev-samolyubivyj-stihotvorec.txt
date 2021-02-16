@@ -1,1 +1,0 @@
-{"title": "Самолюбивый стихотворец", "date": "1787", "author": "Николай Петрович Николев", "parents": [{"name": "kruton", "childrens": ["chesnodum"], "text": []}], "childrens": [{"name": "chesnodum", "parents": ["kruton"], "text": []}]}

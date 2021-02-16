@@ -1,1 +1,0 @@
-{"title": "Венецианская монахиня", "date": "1758", "author": "Михаил Матвеевич Херасков", "parents": [{"name": "mirozi", "childrens": ["korans"], "text": []}], "childrens": [{"name": "korans", "parents": ["mirozi"], "text": []}]}

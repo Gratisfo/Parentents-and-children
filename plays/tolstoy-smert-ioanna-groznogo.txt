@@ -1,1 +1,0 @@
-{"title": "Смерть Иоанна Грозного", "date": "1866", "author": "Алексей Константинович Толстой", "parents": [{"name": "ioann", "childrens": ["fedor_ivanovich"], "text": []}], "childrens": [{"name": "fedor_ivanovich", "parents": ["ioann"], "text": []}]}

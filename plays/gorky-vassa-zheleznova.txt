@@ -1,1 +1,0 @@
-{"title": "Васса Железнова (Мать)", "date": "1910", "author": "Максим Горький", "parents": [{"name": "vassa", "childrens": ["anna", "pavel", "semen"], "text": []}], "childrens": [{"name": "anna", "parents": ["sergej_nikolaevich", "inna_aleksandrovna", "vassa"], "text": []}]}

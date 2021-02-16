@@ -1,1 +1,0 @@
-{"title": "Синав и Трувор", "date": "1751", "author": "Александр Петрович Сумароков", "parents": [{"name": "gostomysl", "childrens": ["umila", "ilmena"], "text": []}], "childrens": [{"name": "ilmena", "parents": ["gostomysl"], "text": []}]}
