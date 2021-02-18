@@ -1,1 +1,0 @@
-{"title": "Тамира и Селим", "author": "Михаил Васильевич Ломоносов", "date": "1750", "parents": [{"name": "mumet", "children": ["tamira"], "texts": []}]}

@@ -1,1 +1,0 @@
-{"title": "Подщипа или Трумф", "author": "Иван Андреевич Крылов", "date": "1859", "parents": [{"name": "vakula", "children": ["podschipa"], "texts": []}]}

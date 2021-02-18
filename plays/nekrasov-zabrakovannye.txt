@@ -1,1 +1,0 @@
-{"title": "Забракованные", "author": "Николай Алексеевич Некрасов", "date": "1859", "parents": [{"name": "grigoriy", "children": ["triumviratov", "kalistratka"], "texts": []}]}

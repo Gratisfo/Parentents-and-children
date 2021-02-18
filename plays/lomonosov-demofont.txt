@@ -1,1 +1,0 @@
-{"title": "Демофонт", "author": "Михаил Васильевич Ломоносов", "date": "1752", "parents": [{"name": "iliona", "children": ["polimnestor"], "texts": []}]}

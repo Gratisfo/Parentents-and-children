@@ -1,1 +1,0 @@
-{"title": "Поездка в Кронштадт", "author": "Александр Иванович Писарев", "date": "1824", "parents": [{"name": "kleshnina", "children": ["lenushka"], "texts": []}, {"name": "kleshnin", "children": ["lenushka"], "texts": []}]}

@@ -1,1 +1,0 @@
-{"title": "Чудаки", "author": "Яков Борисович Княжнин", "date": "1793", "parents": [{"name": "lentjagina", "children": ["ulinka"], "texts": []}, {"name": "lentjagin", "children": ["ulinka"], "texts": []}]}
