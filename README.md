@@ -9,5 +9,5 @@ In this project, I conduct a contrastive analysis of parents and children' texts
 |**Content**|**Notebook**|**Comments**|
 |:--:|:--:|:--:|
 |Code for retrieving and downloading data|[get_data_from_RusDraCor.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/get_data_from_RusDraCor.ipynb)|save json for each play|
-|Contrasitve analysis only Ostrovsky'plays and few classifiers|[between_parents_children.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/Contrastive_analysis_RusDraCor.ipynb)|there are all parents and childrens' replicas from plays, not only between them|
+|Contrasitve analysis only Ostrovsky'plays and few classifiers|[Contrastive_analysis_RusDraCor.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/Contrastive_analysis_RusDraCor.ipynb)|there are all parents and childrens' replicas from plays, not only between them|
 |Code for extraction replics only between parents and children|[between_parents_children.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/between_parents_children.ipynb)|also creating csv dataset|
