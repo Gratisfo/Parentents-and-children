@@ -12,5 +12,8 @@ In this project, I conduct a contrastive analysis of parents and children' texts
 |Contrasitve analysis only Ostrovsky'plays and few classifiers|[Contrastive_analysis_RusDraCor.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/Contrastive_analysis_RusDraCor.ipynb)|there are all parents and childrens' replicas from plays, not only between them|
 |Extraction replics only between parents and children|[between_parents_children.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/between_parents_children.ipynb)|also creating csv dataset|
 
+### Dataset 
+Parents and children characters' replicas (also date and title of plays) [data.csv](https://github.com/Gratisfo/Parentents-and-children/blob/main/data.csv)
+
 ### Slides
 Final project of complingv course (March, 2021) [Contrastive analys drama text from RusDraCor](https://github.com/Gratisfo/Parentents-and-children/blob/main/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%20RusDraCor.pdf)
