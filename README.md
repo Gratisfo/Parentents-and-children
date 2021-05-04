@@ -11,7 +11,7 @@ In this project, I conduct a contrastive analysis of parents and children' texts
 |Retrieving and downloading data|[get_data_from_RusDraCor.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/get_data_from_RusDraCor.ipynb)|save json for each play|
 |Contrasitve analysis only Ostrovsky'plays and few classifiers|[сontrastive_analysis.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/сontrastive_analysis.ipynb)|there are all parents and childrens' replicas from plays, not only between them|
 |Extraction replics only between parents and children|[between_parents_children.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/between_parents_children.ipynb)|also creating csv dataset|
-|Topic Modeling| [topic_modeling.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/topic_modeling.ipynb)| for paretns and chidlren splitted by time period|
+|Topics of conversation| [topic_modeling.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/topic_modeling.ipynb)| for paretns and chidlren splitted by time period|
 
 ### Dataset 
 Parents and children characters' replicas (also date and title of plays) [data.csv](https://github.com/Gratisfo/Parentents-and-children/blob/main/data.csv)
