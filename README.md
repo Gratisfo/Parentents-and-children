@@ -8,11 +8,10 @@ In this project, I conduct a contrastive analysis of parents and children' texts
 ### Code
 |**Content**|**Notebook**|**Comments**|
 |:--:|:--:|:--:|
-|Retrieving and downloading data|[get_data_from_RusDraCor.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/get_data_from_RusDraCor.ipynb)|save json for each play|
-|Contrasitve analysis|[сontrastive_analysis.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/contrastive_analysis.ipynb)|quantitive metrics of texts|
 |Extraction replics only between parents and children|[between_parents_children.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/between_parents_children.ipynb)|also creating csv dataset|
+|Contrasitve analysis|[сontrastive_analysis.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/contrastive_analysis.ipynb)|quantitive metrics of texts|
 |Topics of conversation| [topic_modeling.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/topic_modeling.ipynb)| for paretns and chidlren splitted by time period|
-|Sentiment analysis of replicas|[sentiment_analysis.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/sentiment_analysis.ipynb)| trying to provide unsupervised sentiment analysis |
+
 
 ### Dataset 
 Parents and children characters' replicas (also date and title of plays) [data.csv](https://github.com/Gratisfo/Parentents-and-children/blob/main/data.csv)
