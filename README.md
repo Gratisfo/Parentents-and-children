@@ -11,7 +11,8 @@ In this project, I conduct a contrastive analysis of parents and children' texts
 |Extraction replics only between parents and children|[between_parents_children.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/between_parents_children.ipynb)|also creating csv dataset|
 |Contrasitve analysis|[сontrastive_analysis.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/contrastive_analysis.ipynb)|quantitive metrics of texts|
 |Morphological analysis of text|[morphological_frequancy.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/morphological_frequancy.ipynb)| pos distribution, lexical visaulisation| 
-|Topics of conversation| [topic_modeling.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/topic_modeling.ipynb)| for paretns and chidlren splitted by time period|
+|Create dataframe for topic modeling|[dataset_for_TM.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/dataset_for_TM.ipynb)| saved order of replicas, splitted by scenes|
+|Topics of conversation| [topic_modeling.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/topic_modeling.ipynb)| for paretns and chidlren|
 
 
 ### Dataset 
