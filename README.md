@@ -17,6 +17,7 @@ In this project, I conduct a contrastive analysis of parents and children' texts
 
 ### Datasets 
 Parents and children characters' replicas (also date and title of plays) [data.csv](https://github.com/Gratisfo/Parentents-and-children/blob/main/data.csv)
+
 Parents and children characters' replicas join into small texts, splited by scenes [data_TM.csv](https://github.com/Gratisfo/Parentents-and-children/blob/main/data_TM.csv)
 
 ### Slides
