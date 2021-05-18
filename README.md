@@ -15,8 +15,9 @@ In this project, I conduct a contrastive analysis of parents and children' texts
 |Topics of conversation| [topic_modeling.ipynb](https://github.com/Gratisfo/Parentents-and-children/blob/main/topic_modeling.ipynb)| for paretns and chidlren|
 
 
-### Dataset 
+### Datasets 
 Parents and children characters' replicas (also date and title of plays) [data.csv](https://github.com/Gratisfo/Parentents-and-children/blob/main/data.csv)
+Parents and children characters' replicas join into small texts, splited by scenes [data_TM.csv](https://github.com/Gratisfo/Parentents-and-children/blob/main/data_TM.csv)
 
 ### Slides
 Final project of complingv course (March, 2021) [Contrastive analys drama text from RusDraCor](https://github.com/Gratisfo/Parentents-and-children/blob/main/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%20RusDraCor.pdf)
