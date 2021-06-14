@@ -22,3 +22,4 @@ Parents and children characters' replicas join into small texts, splited by scen
 
 ### Slides
 Final project of complingv course (March, 2021) [Contrastive analys drama text from RusDraCor](https://github.com/Gratisfo/Parentents-and-children/blob/main/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%20RusDraCor.pdf)
+Final bachelor thesis defence (June, 2021) [Parents and children in Russian Drama](https://docs.google.com/presentation/d/1xCXaU0fL62Mm-dNmyHktB4DHc2K_VUrquHHHUdyNy1c/edit?usp=sharing) 
